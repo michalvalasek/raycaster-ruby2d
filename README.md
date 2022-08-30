@@ -1,5 +1,5 @@
 # raycaster-ruby2d
-Simple raycaster example built with ruby2d
+Simple raycaster example built with [ruby2d](https://www.ruby2d.com)
 
 ![image](https://user-images.githubusercontent.com/312155/187374253-2191a548-e4e6-4c57-a24c-77d7fb327103.png)
 
